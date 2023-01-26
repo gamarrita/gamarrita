@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gamarrita
 - 👀 I’m interested in entrepreneur, IoT, AI, embedded systems, Boston Celtics.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning IoT
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me gamarra@gmail.com
 
