@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gamarrita
-- 👀 I’m interested in entrepreneur, IoT, AI, embedded systems, Boston Celtics.
-- 🌱 I’m currently learning IoT
-- 💞️ I’m looking to collaborate on startups
+- 👀 I’m interested in Cortex M33, ultra-low-power projects, IOT devices.
+- 🌱 I’m currently learning Azure
+- 💞️ I’m looking to collaborate on worlds class enginerring teams.
 - 📫 How to reach me gamarra@gmail.com
 
 <!---
